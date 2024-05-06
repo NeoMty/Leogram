@@ -15,7 +15,7 @@ What?<br />
 The first social app for half-bloods.<br />
 The first...? What? *You* know we can't use cellphones outside of camp, right?<br />
 Or can we? 😏 <br />
-This is ridiculous! Just like the Wii control for Argus II! <br />
+This is ridiculous! Just like the Wii control for Argo II! <br />
 Hey! You told me it was genius! 😁 <br />
 I did not such thing. 😡
 
