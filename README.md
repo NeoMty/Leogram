@@ -44,7 +44,7 @@ Here you can find the [Youtube tutorial](https://www.youtube.com/watch?v=FkowOdM
 ## Technologies
 These are the languages, libraries, build tools, frameworks, etc. used to create this project: 👨🏻‍💻
 
-[![My Skills](https://skillicons.dev/icons?i=react,vite,tailwind,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vite,tailwind,js,html,css,appwrite)](https://skillicons.dev)
 
 Leo, give it back!
 
